@@ -1,0 +1,2 @@
+# get_template
+一个使用rust和dioxus写的模板你生成软件
